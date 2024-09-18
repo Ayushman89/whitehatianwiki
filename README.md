@@ -1,2 +1,2 @@
 # whitehatianwiki
-a wiki for ethical hackera
+a wiki for ethical hackers
